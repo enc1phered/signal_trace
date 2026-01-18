@@ -26,7 +26,7 @@ for technique in techniques_model:
             "technique_name" : technique["technique"],
             "event_description" : technique["name"],
             "platform": technique["platform"], 
-            "table_name_or_eventID": technique["event_id"], 
+            "table_name_or_event_id": technique["event_id"], 
             "log_source": technique["log_source"],
             "filter": technique["filter_in"]
             }
