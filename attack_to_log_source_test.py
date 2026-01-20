@@ -315,7 +315,7 @@ with open("table.html", "w") as f:
     {html}
 
     <div class="console-credit">
-        <span class="prompt">root@soc:~$</span> echo "Created by <a href="https://www.linkedin.com/in/YOUR_PROFILE_HERE" target="_blank" class="user-link">Your Name</a>"
+        <span class="prompt">root@soc:~$</span> echo "Created by <a href="https://www.linkedin.com/in/anthonyndutra/" target="_blank" class="user-link">Anthony Dutra</a>"
     </div>
 
     <div class="legal-footer">
